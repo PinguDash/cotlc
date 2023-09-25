@@ -1,3 +1,5 @@
+/* Place your CSS styles in this file */
+
 h1 {
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
@@ -10,6 +12,7 @@ h1 {
 table, td, th {
 
     border: 1px solid rgb(20, 20, 20);
+    background-color: rgb(225, 225, 225)
 
 }
 
@@ -28,5 +31,12 @@ html {
 .division1 {
 
     text-align: center;
+
+}
+
+.credits {
+
+    text-align: center;
+    text-shadow: 1px 1px gray;
 
 }
